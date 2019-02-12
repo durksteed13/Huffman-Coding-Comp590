@@ -1,0 +1,14 @@
+Calculate the theoretical entropy of the source message in bits per symbol using the symbol
+probabilities from part 2. What is this value?
+--> Theoretical entropy = 4.531884433221694 = 4.532 bits per symbol
+
+What is the compressed entropy achieved by the provided compressed file in bits per symbol?
+(Note: Do not include the overhead incurred by the 260 header bytes.)
+--> Compressed entropy = 4.858836296852826 = 4.859 bits per symbol
+
+What is the compressed entropy achieved by the Huffman code produced by your encoder?
+--> Compressed entropy = 4.573161739130435 = 4.573 bits per symbol
+
+Using your entropy value calculations as evidence, does your encoder achieve better
+compression or worse compression then the original compressed file?
+--> The encoder acheived better compression than the original compressed file (4.573 < 4.859)
