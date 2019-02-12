@@ -11,4 +11,4 @@ What is the compressed entropy achieved by the Huffman code produced by your enc
 
 Using your entropy value calculations as evidence, does your encoder achieve better
 compression or worse compression then the original compressed file?
---> The encoder acheived better compression than the original compressed file (4.573 < 4.859)
+--> The encoder achieved better compression than the original compressed file (4.573 < 4.859)
